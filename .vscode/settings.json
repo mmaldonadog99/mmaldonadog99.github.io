@@ -1,0 +1,15 @@
+
+{
+  "locofyConfig": {
+    "project_name": "ecommerce",
+    "id": "6557c33fd8a69a68b64e51d9",
+    "framework": "react",
+    "typescript": false,
+    "path": "public/",
+    "componentsPath": "c:\\Users\\manu_\\nuevo-folde\\src\\components",
+    "screensPath": "c:\\Users\\manu_\\nuevo-folde\\src\\pages",
+    "styling": "CSS Modules",
+    "unit": "px",
+    "naming": "Pascal Case"
+  }
+}
